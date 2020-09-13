@@ -2,16 +2,13 @@ Baby Name Data Trends
 ====
 This project uses data about [baby names from the US Social Security Administration](https://www.ssa.gov/oact/babynames/limits.html) to answer specific questions. 
 
-
-Name: Joshua Boss
-
 ### Timeline
 
-Start Date:  Sunday August 23rd
+Start Date:  Sunday August 23rd, 2020
 
-Finish Date: Tuesday September 8th
+Finish Date: Tuesday September 8th, 2020
 
-Hours Spent: 40
+Hours Spent: 40+
 
 ### Resources Used
 StackOverflow
