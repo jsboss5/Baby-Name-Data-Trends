@@ -10,9 +10,6 @@ Finish Date: Tuesday September 8th, 2020
 
 Hours Spent: 40+
 
-### Resources Used
-StackOverflow
-
 ### Running the Program
 
 Main class: 
