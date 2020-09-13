@@ -1,0 +1,16 @@
+Emily,F,10
+Hannah,F,9
+Madison,F,8
+Ashley,F,7
+Sarah,F,6
+Alexis,F,5
+Alicia,F,4
+Samantha,F,4
+Jacob,M,10
+Michael,M,9
+Matthew,M,8
+Joshua,M,7
+Christopher,M,6
+Nicholas,M,5
+Andrew,M,4
+Joseph,M,3

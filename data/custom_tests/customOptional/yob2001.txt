@@ -1,0 +1,17 @@
+Emma,F,12
+elizabe,F,11
+Dawn,F,8
+Eliz,F,7
+Alexandra,F,6
+elizeb,F,5
+Karen,F,5
+Shenetta,F,5
+Timber,F,5
+James,M,10
+Joshua,M,9
+Scott,M,8
+Dave,M,6
+Johnathon,M,6
+Ethan,M,5
+Jacob,M,5
+JoshuaBoss,M,5
